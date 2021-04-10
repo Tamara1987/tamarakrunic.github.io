@@ -3,9 +3,7 @@
   padding-right: 30px;
   background-position: right;
   list-style: none;
-  min-width: auto;
-  min-height: auto;
-  display: flexy;
+  width: 100%;
 }
 .meni ul li{
   list-style-type: none;
