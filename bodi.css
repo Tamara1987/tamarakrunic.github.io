@@ -20,4 +20,6 @@ body{
   white-space: normal;
   user-select: auto;
   unicode-bidi: normal;
+  minimal-height: auto;
+  minimal-weight: auto;
 }
