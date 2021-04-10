@@ -5,6 +5,7 @@
   list-style: none;
   min-width: auto;
   min-height: auto;
+  display: flexy;
 }
 .meni ul li{
   list-style-type: none;
