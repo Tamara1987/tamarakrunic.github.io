@@ -9,7 +9,6 @@
 }
 .meni ul li{
   list-style-type: none;
-  display: inline-block;
   min-width: auto;
   min-height: auto;
 }
