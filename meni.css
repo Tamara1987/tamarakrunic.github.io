@@ -47,7 +47,8 @@ img{
   minimal-weight: auto;
 }
 .main{
-  max-width: 1200px;
+  max-width: auto;
+  max-height: auto;
   min-width: auto;
   min-height: auto;
 }
